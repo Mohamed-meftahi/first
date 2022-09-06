@@ -2,4 +2,4 @@ premier run ==> valider les entitéés jpa
 1ere etapes apres la creation des entitées et la configuration de la bdd(mapping objet relationnelle avec jpa)
 *** creer les interfaces jpa reposotorie pour la gestion 
 **** creer une api rest pour chaque entité en utilisant la notation repositoryrestresourse(toutes les methodes que herité de jpa repositoy ils accessible directement via une api rest)
-remplir quelque données de la base 
+remplir quelque données de la base    
